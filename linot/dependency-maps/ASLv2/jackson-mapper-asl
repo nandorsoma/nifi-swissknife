@@ -1,0 +1,11 @@
+jackson-mapper-asl-1.9.13.jar
+---NOTICE----------------------------------------------------------
+  (ASLv2) Jackson Mapper ASL
+      The following NOTICE information applies:
+        This product currently only contains code developed by authors
+        of specific components, as identified by the source code files;
+        if such notes are missing files have been created by
+        Tatu Saloranta.
+
+        For additional credits (generally to people who reported problems)
+        see CREDITS file.
